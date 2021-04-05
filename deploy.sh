@@ -7,7 +7,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 
-rm -rf public
+rm -r public
 git submodule add -b master --force git@github.com:struggleapparel/struggleapparel.github.io.git public
 cd public
 shopt -s extglob
