@@ -10,6 +10,7 @@ fi
 rm -r public
 git submodule add -b master --force git@github.com:struggleapparel/struggleapparel.github.io.git public
 cd public
+git pull
 shopt -s extglob
 rm -r !(".git")
 cd ..
