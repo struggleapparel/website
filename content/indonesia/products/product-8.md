@@ -1,11 +1,13 @@
 ---
-title: "Oppo Watch"
+title: "Great Losses"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-8.png"
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
+  - "images/showcase/catalog8.png"
+  - "images/showcase/catalogbel8.png"
+  - "images/showcase/catalog8-1.png"
+  - "images/showcase/catalogbel8-1.png"
+  - "images/showcase/catalog8-2.png"
+  - "images/showcase/catalogbel8-2.png"
 
 # meta description
 description : "this is meta description"
