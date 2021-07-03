@@ -1,12 +1,14 @@
 ---
-title: "Redmi Watch"
+title: "Heaven Fairy"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
 images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/showcase/catalog5.png"
+  - "images/showcase/catalogbel5.png"
+  - "images/showcase/catalog5-1.png"
+  - "images/showcase/catalogbel5-1.png"
+  - "images/showcase/catalog5-2.png"
+  - "images/showcase/catalogbel5-2.png"
+
 
 # meta description
 description : "this is meta description"

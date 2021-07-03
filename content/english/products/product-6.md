@@ -1,11 +1,13 @@
 ---
-title: "Realme Watch"
+title: "Archangel"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/showcase/catalog6.png"
+  - "images/showcase/catalogbel6.png"
+  - "images/showcase/catalog6-1.png"
+  - "images/showcase/catalogbel6-1.png"
+  - "images/showcase/catalog6-2.png"
+  - "images/showcase/catalogbel6-2.png"
 
 # meta description
 description : "this is meta description"

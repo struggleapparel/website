@@ -1,11 +1,15 @@
 ---
-title: "OnePlus Watch"
+title: "Banana's Struggle"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-7.png"
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/showcase/catalog7.png"
+  - "images/showcase/catalogbel7.png"
+  - "images/showcase/catalog7-1.png"
+  - "images/showcase/catalogbel7-1.png"
+  - "images/showcase/catalog7-2.png"
+  - "images/showcase/catalogbel7-2.png"
+  - "images/showcase/catalog7-3.png"
+  - "images/showcase/catalogbel7-3.png"
 
 # meta description
 description : "this is meta description"
