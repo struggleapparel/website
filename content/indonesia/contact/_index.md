@@ -6,7 +6,7 @@ office:
   title : "Kantor Pusat"
   mobile : "+62 813 6754 3537"
   email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
+  location : "Lampung"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour
