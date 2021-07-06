@@ -13,13 +13,13 @@ office:
 opennig_hour:
   title : "Jam Buka"
   day_time:
-    - "Monday: 09:00 AM – 22:00 PM"
-    - "Tuesday: 09:00 AM – 22:00 PM"
-    - "Wednesday: 09:00 AM – 22:00 PM"
-    - "Thursday: 09:00 AM – 22:00 PM"
-    - "Friday: 09:00 AM – 22:00 PM"
-    - "Saturday: 09:00 AM – 22:00 PM"
-    - "sunday: 09:00 – AM 22:00 PM"
+    - "Monday: 09:00  – 22:00 "
+    - "Tuesday: 09:00  – 22:00 "
+    - "Wednesday: 09:00  – 22:00 "
+    - "Thursday: 09:00  – 22:00 "
+    - "Friday: 09:00  – 22:00 "
+    - "Saturday: 09:00  – 22:00 "
+    - "sunday: 09:00 –  22:00 "
     
 draft: false
 ---
