@@ -5,7 +5,7 @@ description : "this is a meta description"
 office:
   title : "Kantor Pusat"
   mobile : "+62 813 6754 3537"
-  email : "demo@email.com"
+  email : "struggleapparel.id@gmail.com"
   location : "Lampung"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
