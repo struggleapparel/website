@@ -86,7 +86,7 @@ weight = 4
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "35px"
 # Meta data
 description = "This is meta description"
 author = "Struggle Apparel"
