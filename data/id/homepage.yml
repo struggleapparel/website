@@ -104,18 +104,18 @@ testimonial:
   testimonial_item:
     # testimonial item loop
     - name: "Daru Thobrani Furqon"
-      designation: "Frontend Developer"
+      designation: ""
       image: "images/ucon.jpg"
       content: "Aku Sangat Senang Dengan Bahan Kain Yang Ada Pada Struggle Apparel Karena Memiliki Bahan Katun Dan Nyaman Untuk Di Pakai Sehari-hari Pokoknya Recomended Deh Belanja Disini"
 
     # testimonial item loop
     - name: "Edi Hendriawan"
-      designation: "UI/UX Designer"
+      designation: ""
       image: "images/edi.jpg"
       content: " Aku Sangat Senang Membeli Baju Di Struggle Apparel Karena Harga Tergolong Relatif Murah dan Bahannya Bagus Enak Untuk Di Pakai Ketika Hangout sama Pasangan"
 
     # testimonial item loop
     - name: "Achmad Chun-Chun Winata Adi"
-      designation: "Golang Developer"
+      designation: ""
       image: "images/acun.jpg"
       content: " Kalau Dari Aku Sih Bahan Yang Mereka Pakai Pastinya Premium Banget dan Rekomanded Banget Buat di Beli Langsung Ke Websitenya Aja Ya Mumpung Ada Diskon heheheh"
