@@ -7,7 +7,7 @@ office:
   mobile : "+62 813 6754 3537"
   email : "struggleapparel.id@gmail.com"
   location : "Lampung"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  content : "Struggle Apparel Memilik Kantor pusat di daerag lampung untuk lebih lengkapnya bisa menghubungi kami di kontak yang tertera dibawah ini"
 
 # opennig hour
 opennig_hour:
