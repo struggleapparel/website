@@ -93,15 +93,15 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Semua Produk Terbaru Kami"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
   bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  title : "Dapatkan Produk Terbaru Kami"
+  content : "Tinggalkan Email Untuk Mendapatkan Notifikasi Produk Terbaru Kami Ya"
   placeholder : "Your Email Address Here"
 
 
