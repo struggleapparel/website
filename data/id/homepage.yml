@@ -108,22 +108,22 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Testimoni"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Daru Thobrani Furqon"
+      designation : "Frontend Developer"
+      image : "images/ucon.jpg"
+      content : "Aku Sangat Senang Dengan Bahan Kain Yang Ada Pada Struggle Apparel Karena Memiliki Bahan Katun Dan Nyaman Untuk Di Pakai Sehari-hari Pokoknya Recomended Deh Belanja Disini"
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Edi Hendriawan"
+      designation : "UI/UX Designer"
+      image : "images/edi.jpg"
+      content : " Aku Sangat Senang Membeli Baju Di Struggle Apparel Karena Harga Tergolong Relatif Murah dan Bahannya Bagus Enak Untuk Di Pakai Ketika Hangout sama Pasangan"
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Achmad Chun-Chun Winata Adi"
+      designation : "Golang Developer"
+      image : "images/acun.jpg"
+      content : " Kalau Dari Aku Sih Bahan Yang Mereka Pakai Pastinya Premium Banget dan Rekomanded Banget Buat di Beli Langsung Ke Websitenya Aja Ya Mumpung Ada Diskon heheheh"
