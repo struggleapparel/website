@@ -6,7 +6,7 @@ office:
   title : "Kantor Pusat"
   mobile : "+62 813 6754 3537"
   email : "struggleapparel.id@gmail.com"
-  location : "Lampung"
+  location : "Sri Bawono, Bandar Sribawono, Kabupaten Lampung Timur, Lampung 34389"
   content : "Struggle Apparel Memilik Kantor pusat di daerag lampung untuk lebih lengkapnya bisa menghubungi kami di kontak yang tertera dibawah ini"
 
 # opennig hour
