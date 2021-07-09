@@ -1,5 +1,5 @@
 ---
-title: "Banana's Struggle"
+title: "pineapple's Struggle"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/catalog7.png"
@@ -19,7 +19,7 @@ price: "130.000"
 discount_price: "100.000"
 
 # product variation
-colors : ["black","white","gray"]
+colors : ["Black","Green","Navy","Whit"]
 sizes : ["small","medium","large"]
 
 draft: false

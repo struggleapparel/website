@@ -17,7 +17,7 @@ price: "130.000"
 discount_price: "100.000"
 
 # product variation
-colors : ["black","white","gray"]
+colors : ["Black","Green","White"]
 sizes : ["small","medium","large"]
 
 draft: false
