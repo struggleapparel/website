@@ -1,5 +1,5 @@
-- id: "add_to_cart"
-  translation: "Add to Cart"
+- id: "buy_now"
+  translation: "Buy Now"
   
 - id: "send"
   translation: "Send Now"
