@@ -12,7 +12,7 @@ banner:
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
+  title: "Struggle Apparel"
   image: "images/showcase/catalog2.png"
 
   # feature at the left of the image
@@ -53,7 +53,7 @@ features:
 promo:
   enable: true
   image: "images/showcase/catalogbel4-2.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  title: "Dirancang Oleh Profesional, Tampil Dengan Gayamu Sendiri"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
     nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
