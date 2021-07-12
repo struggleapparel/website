@@ -35,7 +35,7 @@ features:
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
+    - title: "Desain Elegan"
       icon: "tf-ion-ios-alarm-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
