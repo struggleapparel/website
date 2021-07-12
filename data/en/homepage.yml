@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: "Our Core Features"
-  image: "images/watch-2.png"
+  image: "images/showcase/catalog2.png"
 
   # feature at the left of the image
   left_side:
@@ -52,7 +52,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
+  image: "images/showcase/catalogbel4-2.png"
   title: "Designed by professional , the benefit for creative gigs"
   content:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
