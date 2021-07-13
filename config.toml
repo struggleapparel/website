@@ -42,12 +42,12 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Products"
+name = "Produk"
 url = "products"
 weight = 2
 
@@ -57,7 +57,7 @@ weight = 2
 # weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "Kontak"
 url = "contact"
 weight = 3
 
@@ -68,17 +68,17 @@ weight = 3
 # weight = 1
 
 [[menu.footer]]
-name = "Contact"
+name = "Kontak"
 url = "contact"
 weight = 1
 
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Syarat & Ketentuan"
 url = "terms-conditions"
 weight = 2
 
 [[menu.footer]]
-name = "Privacy Policy"
+name = "Kebijakan"
 url = "privacy-policy"
 weight = 3
 
