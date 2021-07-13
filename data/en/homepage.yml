@@ -6,13 +6,13 @@ banner:
   image: "images/clothes.png"
   button:
     enable: true
-    label: "Browse All Products"
+    label: "Jelajahi Produk"
     link: "products"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Struggle Apparel"
+  title: "Keunggulan Kami"
   image: "images/showcase/catalog2.png"
 
   # feature at the left of the image
@@ -23,14 +23,10 @@ features:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Desain Elegan"
+    - title: "Gaya Trendi"
       icon: "tf-ion-ios-bell-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
   # feature at the right of the image
   right_side:
@@ -40,13 +36,8 @@ features:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
       # feature item loop
-    - title: "Elegant Design"
+    - title: "Harga Murah"
       icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
-
-      # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
 
 ############################# promo ############################
@@ -55,10 +46,8 @@ promo:
   image: "images/showcase/catalogbel4-2.png"
   title: "Dirancang Oleh Profesional, Tampil Dengan Gayamu Sendiri"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    "Struggle Apparel Official Shop adalah akun resmi dari Struggle Apparel Store.
+Struggle Apparel adalah salah satu brand fashion asal Indonesia yang mengedepankan kualitas dan desain produknya yang cocok baik untuk kegiatan sehari-hari maupun traveling."
 
 ############################# About Product #######################
 about_product:
