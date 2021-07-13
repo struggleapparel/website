@@ -92,9 +92,9 @@ testimonial:
   title: "Testimoni"
   testimonial_item:
     # testimonial item loop
-    - name: "Achamd Fahrurozi"
+    - name: "Daru Thobrani Furqon"
       designation: ""
-      image: "images/rozi.jpg"
+      image: "images/ucon.jpg"
       content: "Aku Sangat Senang Dengan Bahan Kain Yang Ada Pada Struggle Apparel Karena Memiliki Bahan Katun Dan Nyaman Untuk Di Pakai Sehari-hari Pokoknya Recomended Deh Belanja Disini"
 
     # testimonial item loop
