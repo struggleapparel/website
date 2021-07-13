@@ -19,26 +19,26 @@ features:
   left_side:
     # feature item loop
     - title: "Bahan Katun Terbaik"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      icon: "tf-ion-android-checkmark-circle"
+      content: "Dibuat dengan bahan katun pilihan yang memberikan kenyamanan"
 
       # feature item loop
     - title: "Gaya Trendi"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      icon: "tf-ion-android-star"
+      content: "Memberikan gaya menarik sesuai dengan tren masa kini"
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
     - title: "Desain Elegan"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      icon: "tf-ion-heart"
+      content: "Membuatnya tidak terlihat kaku karena desainnya yang elegan"
 
       # feature item loop
     - title: "Harga Murah"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+      icon: "tf-ion-thumbsup"
+      content: "Bersaing dengan brand lain dengan kualitas yang baik dan harga terjangkau"
 
 ############################# promo ############################
 promo:
