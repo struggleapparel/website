@@ -93,7 +93,7 @@ author = "Struggle Apparel"
 # currency
 currency = "Rp."
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xrgraqjj" # contact form works with https://formspree.io
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
