@@ -1,33 +1,15 @@
 ---
-title: "Terms & Conditions"
+title: "Kebijakan"
 description : "this is a meta description"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Silakan baca syarat dan ketentuan di bawah ini, yang menguraikan banyak barang hukum, tetapi intinya adalah tujuan kami untuk selalu menjaga privasi, sebagai pelanggan, atau sebagai penjual. Kami telah menyertakan banyak dari persyaratan ini untuk melindungi diri kami secara hukum, tetapi jika Anda memiliki masalah, jangan ragu untuk mengirim email kepada kami di struggleapparel.id@gmail.com dan kami akan melakukan yang terbaik untuk menyelesaikannya dengan cara yang adil dan tepat waktu.
 
-### Product Buy & delivery policy
+### Melindungi Data Pribadi Anda
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+Untuk mencegah akses tanpa otorisasi, kami memberlakukan berbagai prosedur fisik, elektronik dan organisasional yang wajar untuk melindungi Data Pribadi Anda. Semua informasi yang diberikan oleh user adalah rahasia. Struggle Apparel berhak untuk mendistribusikan informasi yang disediakan oleh user, tetapi tidak akan pernah memberikan informasi pribadi tentang user tanpa otoritas. Namun, Struggle Apparel berhak untuk memberikan informasi user jika user telah melakukan pelanggaran, atau telah dinyatakan melawan hukum, atau jika Struggle Apparel memandang perlu atau sesuai. Semua file yang Anda kirimkan ke Struggle Apparel dapat didistribusikan di seluruh jaringan media Struggle Apparel, internet, dan saluran media lainnya.
 
-### Product Buy & delivery policy
+### Kebijakan Hukum
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
-
-### Refund Policy
-
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
-
-### Why We Support:
-
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+Ketentuan Layanan Struggle Apparel dapat berubah tanpa pemberitahuan terlebih dahulu. User harus menjamin bahwa user memiliki hak pada file yang diupload, serta siap di print dan tidak melanggar syarat dan ketentuan. Struggle Apparel tidak bertanggung jawab jika pada kemudian hari ditemukan pelanggaran pada file yang diupload serta di print, dan akan mengarahkan tanggung jawab hukum secara penuh untuk file yang diupload ke masing-masing user.
