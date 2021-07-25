@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://struggleapparel.github.io"
+baseurl = "https://struggleapparel.store"
 title = "Struggle Apparel"
 theme = "vex-hugo"
 # post excert
